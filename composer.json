@@ -1,0 +1,19 @@
+{
+	"name":        "outspaced/giggacounter",
+	"type":        "kohana-module",
+	"description": "Giggacounter is a simple module for breaking down a count of your gigs",
+	"homepage":    "http://giggacounter.outspaced.com",
+	"license":     "Apache",
+	"keywords":    ["kohana", "songkick", "lastfm"],
+	"authors": [
+		{
+			"name":     "Alex Brims",
+			"role":     "developer"
+		}
+	],
+	"require": {
+		"composer/installers":             "~1.0",
+		"kohana/core":                     "3.3.2",
+		"php":                             ">=5.4"
+	}
+}
