@@ -25,7 +25,7 @@ Giggacounter can be installed using Composer, just add these instructions to you
         }
 }
 
-Once installed, it's just a case of navigating to <yoururl>/giggacounter/ - no other set up should be necessary.
+Once installed, it's just a case of enabling the module (also requires enabling the cache module) and navigating to <yoururl>/giggacounter/ - as long as you have a valid Kohana setup, no other set up should be necessary.
 
 COPYRIGHT
 ======
