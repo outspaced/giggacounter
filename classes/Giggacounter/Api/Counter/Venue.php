@@ -14,6 +14,6 @@ class Venue extends Counter
 	/**
 	 * @var string
 	 */
-	protected $_chart_title = 'The venues I\'ve been to the most gigs in'';
+	protected $_chart_title = 'The venues I\'ve been to the most gigs in';
 	
 }
