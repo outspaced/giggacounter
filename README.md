@@ -28,8 +28,9 @@ Giggacounter can be installed using Composer, just add these instructions to you
 </pre>
 
 Once installed, it is necessary to add API keys for Songkick and Last.FM in order to use.
-	https://www.songkick.com/api_key_requests/new
-	http://www.last.fm/api/account/create
+
+* https://www.songkick.com/api_key_requests/new
+* http://www.last.fm/api/account/create
 
 These keys must be added to giggacounter/config/giggacounter.php.
 
