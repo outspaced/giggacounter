@@ -14,6 +14,6 @@ class Country extends Counter
 	/**
 	 * @var string
 	 */
-	protected $_chart_title = 'The countries I\'ve been to the most gigs in'';
+	protected $_chart_title = 'The countries I\'ve been to the most gigs in';
 	
 }
